@@ -1,0 +1,64 @@
+{
+  "team": [
+    {
+      "name": "Joel del Castillo",
+      "role": "Excepteur sint occaecat",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://mkorostoff.github.io/hundred-thousand-faces/img/m/141.jpg",
+      "twitter": null,
+      "facebook": null,
+      "instagram": null,
+      "likedin": null
+    },
+    {
+      "name": "Alexandra Aranda",
+      "role": "Excepteur sint occaecat",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://mkorostoff.github.io/hundred-thousand-faces/img/f/30.jpg",
+      "twitter": null,
+      "facebook": null,
+      "instagram": null,
+      "likedin": null
+    },
+    {
+      "name": "Adolfo Gallardo",
+      "role": "Excepteur sint occaecat",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://mkorostoff.github.io/hundred-thousand-faces/img/m/153.jpg",
+      "twitter": null,
+      "facebook": null,
+      "instagram": null,
+      "likedin": null
+    },
+    {
+      "name": "Domingo Collado",
+      "role": "Excepteur sint occaecat",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://mkorostoff.github.io/hundred-thousand-faces/img/m/136.jpg",
+      "twitter": null,
+      "facebook": null,
+      "instagram": null,
+      "likedin": null
+    },
+    {
+      "name": "Esmeralda Sevilla",
+      "role": "Excepteur sint occaecat",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://mkorostoff.github.io/hundred-thousand-faces/img/f/74.jpg",
+      "twitter": null,
+      "facebook": null,
+      "instagram": null,
+      "likedin": null
+    },
+    {
+      "name": "Elena Maria Pe&ntilde;a",
+      "role": "Excepteur sint occaecat",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://mkorostoff.github.io/hundred-thousand-faces/img/f/33.jpg",
+      "twitter": null,
+      "facebook": null,
+      "instagram": null,
+      "likedin": null
+    }
+  ] 
+}
