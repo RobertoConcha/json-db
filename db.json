@@ -1,48 +1,48 @@
 {
-    "preguntas-frecuentes": [
+    "frequently-asked-questions": [
         {
             "key": 1,
-            "pregunta": "¿Tiene validez oficial?",
-            "respuesta" :  "Claro, tiene Validez Oficial por parte de la SEP."
+            "question": "¿Tiene validez oficial?",
+            "answer" :  "Claro, tiene Validez Oficial por parte de la SEP."
         },
         {
             "key": 2,
-            "pregunta": "¿Cuál es la estructura del examen?",
-            "respuesta" :  "Recuerda que los exámenes únicos de acreditación del nivel medio superior vienen temas fundamentales como Español, Matemáticas, Historia de México, Historia Universal, Razonamiento Verbal entre otros. Y son exámenes de opción múltiple. El examen más fácil que puede existir."
+            "question": "¿Cuál es la estructura del examen?",
+            "answer" :  "Recuerda que los exámenes únicos de acreditación del nivel medio superior vienen temas fundamentales como Español, Matemáticas, Historia de México, Historia Universal, Razonamiento Verbal entre otros. Y son exámenes de opción múltiple. El examen más fácil que puede existir."
         },
         {
             "key": 3,
-            "pregunta": "¿En cuánto tiempo me entregan mi certificado?",
-            "respuesta" :  "Existen diferentes calendarios al año dependiendo que examen quieras realizar pero el tiempo promedio una vez aprobado el examen es de 2 a 3 meses aproximadamente."
+            "question": "¿En cuánto tiempo me entregan mi certificado?",
+            "answer" :  "Existen diferentes calendarios al año dependiendo que examen quieras realizar pero el tiempo promedio una vez aprobado el examen es de 2 a 3 meses aproximadamente."
         },
         {
             "key": 4,
-            "pregunta": "¿Puedo continuar con mis estudios?",
-            "respuesta" :  "Si, los certificados tienen total validez oficial para que continúes tus estudios en cualquier Universidad del país y del extranjero."
+            "question": "¿Puedo continuar con mis estudios?",
+            "answer" :  "Si, los certificados tienen total validez oficial para que continúes tus estudios en cualquier Universidad del país y del extranjero."
         },
         {
             "key": 5,
-            "pregunta": "¿Es fácil el CENEVAL?",
-            "respuesta" :  "No, de hecho el examen es el más complicado en cuanto al nivel de dificultad, la ventaja de tomar nuestro examen y curso es que hemos desarrollado una estrategia académica lo suficientemente buena que 8 de cada 10 de nuestros alumnos aprueban el examen, en caso de que no lo apruebes, somos la única institución educativa que se compromete a darte las oportunidades necesarias para que alcances tu meta de aprobar el examen."
+            "question": "¿Es fácil el CENEVAL?",
+            "answer" :  "No, de hecho el examen es el más complicado en cuanto al nivel de dificultad, la ventaja de tomar nuestro examen y curso es que hemos desarrollado una estrategia académica lo suficientemente buena que 8 de cada 10 de nuestros alumnos aprueban el examen, en caso de que no lo apruebes, somos la única institución educativa que se compromete a darte las oportunidades necesarias para que alcances tu meta de aprobar el examen."
         },
         {
             "key": 6,
-            "pregunta": "¿Cuánto dura el curso?",
-            "respuesta" :  "Tenemos varias modalidades, dependiendo que tanto te urja tu certificado puedes realizar tu curso desde 1, 3, 6 meses, todo depende de cuanto tiempo estés dispuesto a invertir en el proceso."
+            "question": "¿Cuánto dura el curso?",
+            "answer" :  "Tenemos varias modalidades, dependiendo que tanto te urja tu certificado puedes realizar tu curso desde 1, 3, 6 meses, todo depende de cuanto tiempo estés dispuesto a invertir en el proceso."
         },
         {
             "key": 7,
-            "pregunta": "¿Con qué promedio salgo?",
-            "respuesta" :  "No podemos garantizarte ningún promedio, mucho depende del esfuerzo que le pongas al examen pero por experiencia te podemos decir que nuestros alumnos salen con promedios entre 8.5 y 9.5, te recordamos que nosotros no aplicamos el examen ni mucho menos lo calificamos."
+            "question": "¿Con qué promedio salgo?",
+            "answer" :  "No podemos garantizarte ningún promedio, mucho depende del esfuerzo que le pongas al examen pero por experiencia te podemos decir que nuestros alumnos salen con promedios entre 8.5 y 9.5, te recordamos que nosotros no aplicamos el examen ni mucho menos lo calificamos."
         },
         {
             "key": 8,
-            "pregunta": "¿Cómo puedo saber si mi certificado es validado por la SEP?",
-            "respuesta" :  "De hecho ya es muy sencillo saber si un certificado es válido, basta con ingresar al portal del RODAC y registrar tu certificado para que sea la misma SEP quien te diga el estatus de tu documento oficial, incluso actualmente los nuevos certificados ya vienen digitalizados con códigos QR y clave alfanúmerica para que pueda verificar su autenticidad prácticamente de manera inmediata."
+            "question": "¿Cómo puedo saber si mi certificado es validado por la SEP?",
+            "answer" :  "De hecho ya es muy sencillo saber si un certificado es válido, basta con ingresar al portal del RODAC y registrar tu certificado para que sea la misma SEP quien te diga el estatus de tu documento oficial, incluso actualmente los nuevos certificados ya vienen digitalizados con códigos QR y clave alfanúmerica para que pueda verificar su autenticidad prácticamente de manera inmediata."
         }
     ],
 
-    "team": [
+    "team-members": [
         {
             "key": 1,
             "name": "Joel del Castillo",
