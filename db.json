@@ -1,44 +1,44 @@
-{
+ï»¿{
     "frequently-asked-questions": [
         {
             "key": 1,
-            "question": "¿Tiene validez oficial?",
+            "question": "Â¿Tiene validez oficial?",
             "answer" :  "Claro, tiene Validez Oficial por parte de la SEP."
         },
         {
             "key": 2,
-            "question": "¿Cuál es la estructura del examen?",
-            "answer" :  "Recuerda que los exámenes únicos de acreditación del nivel medio superior vienen temas fundamentales como Español, Matemáticas, Historia de México, Historia Universal, Razonamiento Verbal entre otros. Y son exámenes de opción múltiple. El examen más fácil que puede existir."
+            "question": "Â¿CuÃ¡l es la estructura del examen?",
+            "answer" :  "Recuerda que los exÃ¡menes Ãºnicos de acreditaciÃ³n del nivel medio superior vienen temas fundamentales como EspaÃ±ol, MatemÃ¡ticas, Historia de MÃ©xico, Historia Universal, Razonamiento Verbal entre otros. Y son exÃ¡menes de opciÃ³n mÃºltiple. El examen mÃ¡s fÃ¡cil que puede existir."
         },
         {
             "key": 3,
-            "question": "¿En cuánto tiempo me entregan mi certificado?",
-            "answer" :  "Existen diferentes calendarios al año dependiendo que examen quieras realizar pero el tiempo promedio una vez aprobado el examen es de 2 a 3 meses aproximadamente."
+            "question": "Â¿En cuÃ¡nto tiempo me entregan mi certificado?",
+            "answer" :  "Existen diferentes calendarios al aÃ±o dependiendo que examen quieras realizar pero el tiempo promedio una vez aprobado el examen es de 2 a 3 meses aproximadamente."
         },
         {
             "key": 4,
-            "question": "¿Puedo continuar con mis estudios?",
-            "answer" :  "Si, los certificados tienen total validez oficial para que continúes tus estudios en cualquier Universidad del país y del extranjero."
+            "question": "Â¿Puedo continuar con mis estudios?",
+            "answer" :  "Si, los certificados tienen total validez oficial para que continÃºes tus estudios en cualquier Universidad del paÃ­s y del extranjero."
         },
         {
             "key": 5,
-            "question": "¿Es fácil el CENEVAL?",
-            "answer" :  "No, de hecho el examen es el más complicado en cuanto al nivel de dificultad, la ventaja de tomar nuestro examen y curso es que hemos desarrollado una estrategia académica lo suficientemente buena que 8 de cada 10 de nuestros alumnos aprueban el examen, en caso de que no lo apruebes, somos la única institución educativa que se compromete a darte las oportunidades necesarias para que alcances tu meta de aprobar el examen."
+            "question": "Â¿Es fÃ¡cil el CENEVAL?",
+            "answer" :  "No, de hecho el examen es el mÃ¡s complicado en cuanto al nivel de dificultad, la ventaja de tomar nuestro examen y curso es que hemos desarrollado una estrategia acadÃ©mica lo suficientemente buena que 8 de cada 10 de nuestros alumnos aprueban el examen, en caso de que no lo apruebes, somos la Ãºnica instituciÃ³n educativa que se compromete a darte las oportunidades necesarias para que alcances tu meta de aprobar el examen."
         },
         {
             "key": 6,
-            "question": "¿Cuánto dura el curso?",
-            "answer" :  "Tenemos varias modalidades, dependiendo que tanto te urja tu certificado puedes realizar tu curso desde 1, 3, 6 meses, todo depende de cuanto tiempo estés dispuesto a invertir en el proceso."
+            "question": "Â¿CuÃ¡nto dura el curso?",
+            "answer" :  "Tenemos varias modalidades, dependiendo que tanto te urja tu certificado puedes realizar tu curso desde 1, 3, 6 meses, todo depende de cuanto tiempo estÃ©s dispuesto a invertir en el proceso."
         },
         {
             "key": 7,
-            "question": "¿Con qué promedio salgo?",
-            "answer" :  "No podemos garantizarte ningún promedio, mucho depende del esfuerzo que le pongas al examen pero por experiencia te podemos decir que nuestros alumnos salen con promedios entre 8.5 y 9.5, te recordamos que nosotros no aplicamos el examen ni mucho menos lo calificamos."
+            "question": "Â¿Con quÃ© promedio salgo?",
+            "answer" :  "No podemos garantizarte ningÃºn promedio, mucho depende del esfuerzo que le pongas al examen pero por experiencia te podemos decir que nuestros alumnos salen con promedios entre 8.5 y 9.5, te recordamos que nosotros no aplicamos el examen ni mucho menos lo calificamos."
         },
         {
             "key": 8,
-            "question": "¿Cómo puedo saber si mi certificado es validado por la SEP?",
-            "answer" :  "De hecho ya es muy sencillo saber si un certificado es válido, basta con ingresar al portal del RODAC y registrar tu certificado para que sea la misma SEP quien te diga el estatus de tu documento oficial, incluso actualmente los nuevos certificados ya vienen digitalizados con códigos QR y clave alfanúmerica para que pueda verificar su autenticidad prácticamente de manera inmediata."
+            "question": "Â¿CÃ³mo puedo saber si mi certificado es validado por la SEP?",
+            "answer" :  "De hecho ya es muy sencillo saber si un certificado es vÃ¡lido, basta con ingresar al portal del RODAC y registrar tu certificado para que sea la misma SEP quien te diga el estatus de tu documento oficial, incluso actualmente los nuevos certificados ya vienen digitalizados con cÃ³digos QR y clave alfanÃºmerica para que pueda verificar su autenticidad prÃ¡cticamente de manera inmediata."
         }
     ],
 
@@ -100,7 +100,7 @@
         },
         {
             "key": 6,
-            "name": "Elena Maria Peña",
+            "name": "Elena Maria PeÃ±a",
             "role": "Excepteur sint occaecat",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
             "image": "https://mkorostoff.github.io/hundred-thousand-faces/img/f/33.jpg",
